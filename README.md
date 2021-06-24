@@ -15,7 +15,7 @@ If looking at the total summary that includes all lots, the suspension coils do 
 ![Individual Lot T-Tests for Suspension Coils PSI](images/individual_psi_t-tests.png)  
 ### Summary
  - The overall mean for all three manufacturing lots is 1498.78, with a p-value of 0.06. When looking at the total overall values, we fall within the normal significance and therefore cannot reject the null hypothesis.
- - Lot 1 has a mean of 1500, and a p-value of 1. We cannot reject the null hypothesis, as Lot 1 has a mean of 1500, matching the population mean.
+ - Lot 1 has a mean of 1500, and a p-value of 1. We cannot reject the null hypothesis, as Lot 1 has a mean that matches the population mean.
  - Lot 2 has a mean of 1500.2, and a p-value of 0.61. We cannot reject the null hypothesis, as Lot 2 has a mean that is very similar to the population mean.
  - Lot 3 has a mean of 1496.14, and a p-value of 0.042. Since 0.042 is lower than normal significance, we will reject the null hypothesis. These results are statistically significant.  
 When looking at p-values for the overall values, the variances are not statistically significant. Although, when we look the the individual p-values, we can see that Lot 3 is statistically significant. I think that this shows how important it can be to drill down numbers into subcategories, when it will not become too cumbersom. The company could check in on Lot 3 to identify why their product is not being produced more consistently, and hopefully resolve the issue.
